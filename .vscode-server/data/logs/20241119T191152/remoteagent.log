@@ -1,0 +1,41 @@
+2024-11-19 19:11:52.528 [info] 
+
+
+
+
+2024-11-19 19:11:52.583 [info] Extension host agent started.
+2024-11-19 19:11:52.849 [info] Started initializing default profile extensions in extensions installation folder. file:///home/oloruntobi/.vscode-server/extensions
+2024-11-19 19:11:52.945 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/oloruntobi/.vscode-server/extensions
+2024-11-19 19:11:52.975 [info] [127.0.0.1][6b8286db][ManagementConnection] New connection established.
+2024-11-19 19:11:53.586 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] New connection established.
+2024-11-19 19:11:53.613 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] <2368> Launched Extension Host Process.
+2024-11-19 23:40:24.071 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
+2024-11-19 23:40:24.774 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 02:10:45.658 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 02:10:45.860 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
+2024-11-20 03:00:10.887 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
+2024-11-20 03:00:11.158 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 03:00:21.863 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 03:00:22.096 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
+2024-11-20 03:04:30.067 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
+2024-11-20 03:04:30.223 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 08:36:38.908 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 08:36:38.914 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
+2024-11-20 09:30:31.994 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
+2024-11-20 09:30:32.196 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 09:38:30.589 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-11-20 09:41:28.681 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-11-20 11:20:02.178 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 11:20:03.026 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
+2024-11-20 11:45:08.154 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
+2024-11-20 11:45:08.383 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 15:29:01.830 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 15:29:01.854 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
+2024-11-20 17:38:02.633 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
+2024-11-20 17:38:03.112 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 20:21:53.641 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2024-11-20 20:21:53.797 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-20 20:22:00.093 [info] [127.0.0.1][6b8286db][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-20 20:22:00.102 [info] [127.0.0.1][2b56797a][ExtensionHostConnection] The client has reconnected.
+2024-11-20 20:22:02.479 [info] [127.0.0.1][6b8286db][ManagementConnection] The client has reconnected.
