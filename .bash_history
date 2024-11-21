@@ -104,3 +104,35 @@ chmod u+x ../oloruntobi/scriptRepo.sh
 ../oloruntobi/scriptRepo.sh
 The64eyes*
 exit
+wsl list
+ls
+cat scriptRepo.sh 
+code scriptRepo.sh
+nano scriptRepo.sh
+chmod +x scriptRepo.sh
+sudo apt update && sudo apt install -y jq
+/oloruntobi/scriptRepo.sh
+../oloruntobi/scriptRepo.sh
+echo "DEBUG: GIT_URL is $GIT_URL"
+readlink -f scriptRepo.sh
+cd
+ls -a
+code .bashrc
+source ~/.bashrc
+new_github_repo
+source ~/.bashrc
+new_github_repo
+curl -H "Authorization: token YOUR_PERSONAL_ACCESS_TOKEN" https://api.github.com/user/repos
+curl -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/user/repos
+new_github_repo
+source ~/.bashrc
+new_github_repo
+new_github-repo
+new_github_repo
+git remote set-url origin https://64eyes:<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>@github.com/64eyes/Bash-test-script.git
+git config --global credential.helper store
+sudo apt-get install git-credential-manager-core
+sudo dpkg -i git-credential-manager-core_2.6.0_amd64.deb
+wget https://github.com/GitCredentialManager/git-credential-manager/releases/download/v2.0.565/git-credential-manager-core_2.6.0_amd64.deb
+locate gcm-linux_amd64.2.6.0.deb
+find / -type f -name gcm-linux_amd64.2.6.0.deb

@@ -1,3 +1,5 @@
 [user]
 	name = 64eyes
 	email = madamorit8@gmail.com
+[credential]
+	helper = store
