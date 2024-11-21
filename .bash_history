@@ -136,3 +136,12 @@ sudo dpkg -i git-credential-manager-core_2.6.0_amd64.deb
 wget https://github.com/GitCredentialManager/git-credential-manager/releases/download/v2.0.565/git-credential-manager-core_2.6.0_amd64.deb
 locate gcm-linux_amd64.2.6.0.deb
 find / -type f -name gcm-linux_amd64.2.6.0.deb
+ls
+pwd
+git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/bin/git-credential-manager.exe"
+git config --global credential.helper store
+new_github_repo
+~/.git-credentials
+ls -l ~/.git-credentials
+lsof ~/.git-credentials
+~/.git-credentials

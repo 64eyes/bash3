@@ -120,4 +120,4 @@ fi
 alias new_github_repo='/home/oloruntobi/scriptRepo.sh'
 
 #Github PAT Token
-export GITHUB_TOKEN="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"
+export GITHUB_TOKEN="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"
